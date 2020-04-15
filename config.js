@@ -11,7 +11,7 @@ module.exports = {
   author: 'Francis Chabouis',
   githubUrl: 'fchabouis/blog-from-medium',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'git@github.com:fchabouis/blog-from-medium.git',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
